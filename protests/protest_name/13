@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Black Lives Matter Protests</title>
+
+  <link rel="stylesheet" href="../static/main.css">
+
+</head>
+<body>
+
+<div id="container">
+
+	<h1>Black Lives Matter Protests</h1>
+
+	<p> The United States has a long history of social and political movements that have led to major protests throughout the country including the Black Lives Matter Protests, which began on Wednesday, July 5, 1905. It occurred in various cities and was sparked by: Police brutality and systemic racism. The protest led to increased public awareness and activism against racism.</p>
+
+	<p><a href="https://en.wikipedia.org/wiki/List_of_protests_and_demonstrations_in_the_United_States_by_size">View Wikipedia page.</a></p>
+
+	<!-- NOTE the way to link to a route: Use the function name -->
+	<p><a href="../index.html">Return to the list</a> to select a different protest.</p>
+
+</div>
+
+</body>
+</html>

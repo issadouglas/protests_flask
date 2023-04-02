@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Occupy Wall Street</title>
+
+  <link rel="stylesheet" href="../static/main.css">
+
+</head>
+<body>
+
+<div id="container">
+
+	<h1>Occupy Wall Street</h1>
+
+	<p> The United States has a long history of social and political movements that have led to major protests throughout the country including the Occupy Wall Street, which began on Saturday, September 17, 2011. It occurred in New York City, NY and was sparked by: Economic inequality and corporate greed. The protest led to increased discussion of income inequality and corporate power.</p>
+
+	<p><a href="https://en.wikipedia.org/wiki/List_of_protests_and_demonstrations_in_the_United_States_by_size">View Wikipedia page.</a></p>
+
+	<!-- NOTE the way to link to a route: Use the function name -->
+	<p><a href="../index.html">Return to the list</a> to select a different protest.</p>
+
+</div>
+
+</body>
+</html>

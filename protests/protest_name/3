@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Bonus Army Protest</title>
+
+  <link rel="stylesheet" href="../static/main.css">
+
+</head>
+<body>
+
+<div id="container">
+
+	<h1>Bonus Army Protest</h1>
+
+	<p> The United States has a long history of social and political movements that have led to major protests throughout the country including the Bonus Army Protest, which began on Thursday, July 28, 1932. It occurred in Washington, D.C. and was sparked by: Bonus payments for World War I veterans. The protest led to President Hoover ordering the military to disperse the protestors.</p>
+
+	<p><a href="https://en.wikipedia.org/wiki/List_of_protests_and_demonstrations_in_the_United_States_by_size">View Wikipedia page.</a></p>
+
+	<!-- NOTE the way to link to a route: Use the function name -->
+	<p><a href="../index.html">Return to the list</a> to select a different protest.</p>
+
+</div>
+
+</body>
+</html>

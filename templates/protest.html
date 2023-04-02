@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>{{protest["protest_name"]}}</title>
+
+  <link rel="stylesheet" href="{{url_for('static', filename = 'main.css')}}">
+
+</head>
+<body>
+
+<div id="container">
+
+	<h1>{{protest["protest_name"]}}</h1>
+
+	<p> The United States has a long history of social and political movements that have led to major protests throughout the country including the {{protest["protest_name"]}}, which began on {{protest["date"]}}. It occurred in {{protest["location"]}} and was sparked by: {{protest["cause"]}}. The protest {{protest["outcome"]}}.</p>
+
+	<p><a href="https://en.wikipedia.org/wiki/List_of_protests_and_demonstrations_in_the_United_States_by_size">View Wikipedia page.</a></p>
+
+	<!-- NOTE the way to link to a route: Use the function name -->
+	<p><a href="{{url_for('index')}}">Return to the list</a> to select a different protest.</p>
+
+</div>
+
+</body>
+</html>

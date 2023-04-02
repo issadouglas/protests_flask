@@ -1,0 +1,21 @@
+ID,protest_name,date,location,cause,outcome
+1,Boston Tea Party,"December 16, 1773","Boston, MA",Colonial opposition to British taxation without representation,led to the American Revolution
+2,Women's Suffrage March,"Sunday, March 3, 2013","Washington, D.C.",Women's right to vote,led to the passage of the 19th Amendment to the U.S. Constitution
+3,Bonus Army Protest,"Thursday, July 28, 1932","Washington, D.C.",Bonus payments for World War I veterans,led to President Hoover ordering the military to disperse the protestors
+4,Civil Rights March on Washington,"Wednesday, August 28, 1963","Washington, D.C.",Civil rights for African Americans,led to the passage of the Civil Rights Act of 1964
+5,Anti-Vietnam War Protest,"Saturday, October 21, 1967","Washington, D.C.",Opposition to U.S. involvement in the Vietnam War,led to increased public pressure on the government to end the war
+6,Stonewall Riots,"Saturday, June 28, 1969","New York City, NY",LGBT rights,led to increased activism and the modern LGBT rights movement
+7,Kent State Shooting Protest,"Monday, May 4, 1970","Kent, OH",Opposition to U.S. involvement in the Vietnam War,led to four student protestors being killed by National Guard troops
+8,American Indian Movement Occupation of Alcatraz,"Thursday, November 20, 1969","San Francisco, CA",Indigenous rights and sovereignty,led to increased activism and awareness of indigenous issues
+9,March for Our Lives,"Saturday, March 24, 2018","Washington, D.C.",Gun control,led to increased national attention to gun control legislation
+10,Occupy Wall Street,"Saturday, September 17, 2011","New York City, NY",Economic inequality and corporate greed,led to increased discussion of income inequality and corporate power
+11,Standing Rock Pipeline Protest,"Friday, April 1, 2016","Standing Rock Reservation, ND",Environmental and indigenous rights,led to the pipeline being eventually rerouted
+12,Women's March on Washington,"Saturday, January 21, 2017","Washington, D.C.",Women's rights and opposition to President Trump,led to increased mobilization and organization of women's activism
+13,Black Lives Matter Protests,"Wednesday, July 5, 1905",various cities,Police brutality and systemic racism,led to increased public awareness and activism against racism
+14,March for Science,"Saturday, April 22, 2017",various cities,Support for scientific research and evidence-based policy,led to increased public awareness of the importance of science
+15,Muslim Ban Protests,"Sunday, January 29, 2017",various cities,Opposition to President Trump's travel ban on Muslim countries,led to legal challenges and eventually changes to the policy
+16,March for Climate,"Saturday, April 29, 2017",various cities,Climate change and environmental protection,led to increased public awareness and activism around
+17,Women's March,"Saturday, January 21, 2017",multiple cities,"Women's rights, healthcare, immigration, LGBTQ+ rights, etc.","led to the largest single-day protest in U.S. history, estimated 5 million participants across the country"
+18,March for Our Lives,"Saturday, March 24, 2018",multiple cities,Gun control,"led to demands for stricter gun control measures, significant turnout from young people and students"
+19,Families Belong Together,"Saturday, June 30, 2018",multiple cities,Immigration policy,led to protests against family separation and detention of migrant families at the U.S. border
+20,Stop Asian Hate,"Friday, March 26, 2021",multiple cities,Anti-Asian racism and hate crimes,"led to protests against anti-Asian hate crimes and discrimination, calls for increased awareness and action to combat racism towards Asian Americans"

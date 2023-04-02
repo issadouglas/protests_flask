@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>American Indian Movement Occupation of Alcatraz</title>
+
+  <link rel="stylesheet" href="../static/main.css">
+
+</head>
+<body>
+
+<div id="container">
+
+	<h1>American Indian Movement Occupation of Alcatraz</h1>
+
+	<p> The United States has a long history of social and political movements that have led to major protests throughout the country including the American Indian Movement Occupation of Alcatraz, which began on Thursday, November 20, 1969. It occurred in San Francisco, CA and was sparked by: Indigenous rights and sovereignty. The protest led to increased activism and awareness of indigenous issues.</p>
+
+	<p><a href="https://en.wikipedia.org/wiki/List_of_protests_and_demonstrations_in_the_United_States_by_size">View Wikipedia page.</a></p>
+
+	<!-- NOTE the way to link to a route: Use the function name -->
+	<p><a href="../index.html">Return to the list</a> to select a different protest.</p>
+
+</div>
+
+</body>
+</html>
